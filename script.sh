@@ -5,7 +5,7 @@ done;
 
 for idx in $@
 do 
-	let cont = $cont + 1;
+	cont = ${cont} + 1;
 	echo "Parametro $cont : $idx";
 done;
 
