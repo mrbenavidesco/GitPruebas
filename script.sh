@@ -8,9 +8,3 @@ do
 	cont = ${cont} + 1;
 	echo "Parametro $cont : $idx";
 done;
-
-echo "Usuario: $USER";
-echo "Nombre : $USERNAME";
-echo "Host   : $HOSTNAME";
-echo "Tiempo : $SECONDS";
-
