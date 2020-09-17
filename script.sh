@@ -15,6 +15,5 @@ echo "Host   : $HOSTNAME";
 echo "Tiempo : $SECONDS";
 <<<<<<< HEAD
 echo "Fin del script";
-=======
 echo "Esta linea se agrego en repositorio remoto";
->>>>>>> b672cbd33e2b5bbe43817ac578be044c5136aaba
+
