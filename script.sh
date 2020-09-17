@@ -9,11 +9,3 @@ do
 	echo "Parametro $cont : $idx";
 done;
 
-echo "Usuario: $USER";
-echo "Nombre : $USERNAME";
-echo "Host   : $HOSTNAME";
-echo "Tiempo : $SECONDS";
-<<<<<<< HEAD
-echo "Fin del script";
-echo "Esta linea se agrego en repositorio remoto";
-
